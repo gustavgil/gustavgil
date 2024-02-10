@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavgil
-- 👀 I’m interested in PHP, JavaScript and IA
-- 🌱 I’m currently learning IA
+- 👀 I’m interested in PHP, JavaScript, Python, SQL and LLM
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on Bakend projects and integration
 - 📫 How to reach me: instagram @soygustavogil linkedin @gustavogil77
 
